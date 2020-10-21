@@ -15,7 +15,7 @@ public class ShinyObjects {
 	 * If you cannot play sound on this computer, set canPlaySounds to false.
 	 * If you are not sure, ask your teacher 
 	 * *****************/
-	boolean canPlaySounds = true;	
+	boolean canPlaySounds = false;	
 	
 	public static void main(String[] args) {
 		new ShinyObjects().manyShinyObjects();
