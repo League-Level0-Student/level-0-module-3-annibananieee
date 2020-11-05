@@ -16,8 +16,7 @@ void draw() {
 Use modulo to make the colors alternate between yellow and black
 */
 
-
-
+ellipse(400,400,50,50);
 /*
 Now put his head on using drawBeeFace(x,y)
 */

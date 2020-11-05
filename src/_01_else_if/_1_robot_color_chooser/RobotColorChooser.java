@@ -39,10 +39,6 @@ public class RobotColorChooser {
 				rob.turn(1);
         //7. Put a loop around your code so that you keep asking the user for more colors & drawing them
 		
-		  }
 		
-
-
-
 	}
 }
